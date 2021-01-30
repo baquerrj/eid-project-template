@@ -1,2 +1,16 @@
-# eid-project-2
-ECEN 5783 Embedded Interface Design - Spring 2021 Project 2
+# Project 2, Temperature Sensor System Simulator, 2nd Phase
+
+## Team
+* Roberto Baquerizo
+* Zach Turner
+
+## Project Summary
+
+
+## Language and Environment Description
+
+
+#### Sample Output
+
+
+## Program Design
