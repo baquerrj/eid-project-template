@@ -1,17 +1,14 @@
-# Project 2, Temperature Sensor System Simulator, 2nd Phase
+# Project XYZ
 
 ## Team
-* Roberto Baquerizo
-* Zach Turner
+* Person 1
+* Person 2
 
 ## Project Summary
-*
+* Fill in project summary and goals here.
 
 ## Language and Environment Description
-* Python 3.8.5 (compatible with at least Python 3.x).
-    * Dependent on: `numpy-1.19.2`
-* Node.js 12
-* The program was developed in both Windows and Ubuntu (Linux) environments.
+* Describe development environment and languages used (Python, HTML, etc.)
 
 
 ### Sample Output
@@ -20,3 +17,4 @@ code
 ```
 
 ## Program Design
+* Discuss design approach, solutions, rationale.
